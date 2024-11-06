@@ -1,0 +1,19 @@
+.transportation-options {
+    margin: 20px;
+  }
+  
+  .transportation-card {
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  .transportation-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-background {
+    border-radius: 0;
+  }
+  
